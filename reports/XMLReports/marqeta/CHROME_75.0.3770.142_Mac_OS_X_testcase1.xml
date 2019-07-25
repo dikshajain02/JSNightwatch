@@ -5,9 +5,9 @@
 
   <testsuite name="marqeta.testcase1"
     errors="0" failures="0" hostname="" id="" package="marqeta" skipped="0"
-    tests="1" time="10.10" timestamp="">
+    tests="1" time="8.539" timestamp="">
   
-    <testcase name="Open Homepage and click on a button" classname="marqeta.testcase1" time="10.10" assertions="5">
+    <testcase name="Open Marqeta Home page" classname="marqeta.testcase1" time="8.539" assertions="5">
 
     
 
