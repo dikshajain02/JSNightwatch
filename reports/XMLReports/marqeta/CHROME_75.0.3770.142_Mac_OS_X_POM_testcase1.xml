@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="marqeta.POM_testcase1"
+    errors="0" failures="0" hostname="" id="" package="marqeta" skipped="0"
+    tests="1" time="8.994" timestamp="">
+  
+    <testcase name="Open Marqeta Home page" classname="marqeta.POM_testcase1" time="8.994" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

@@ -14,7 +14,7 @@ module.exports = {
 
         browser
             .pause(1000)
-            .saveScreenshot('./screenshots/testcase1.jpg')  //getting a screenshot of new page
+            .saveScreenshot('./screenshots/POMtestcase1.jpg')  //getting a screenshot of new page
         
         page
             .assert.visible('@explore_api_banner')
