@@ -12,7 +12,7 @@
 
     "test_workers": {
       "enabled": true,
-      "workers": 3
+      "workers": "auto"
     },
   
     "test_settings" : {
@@ -24,9 +24,17 @@
             "--verbose"
           ]
         },
+        "firefox" : {
+          "webdriver": {
+            "port": "4444",
+            "server_path": "lib/drivers/geckodriver",
+            "cli_args": [
+              "--log", "debug"
+            ]
+          }
+        },
         "filter": ["./tests"],
         "desiredCapabilities" : {
-          "browserName" : "chrome",
           "acceptInsecureCerts" : true
         }
       },

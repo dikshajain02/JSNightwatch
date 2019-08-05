@@ -5,9 +5,9 @@
 
   <testsuite name="marqeta.POM_testcase1"
     errors="0" failures="0" hostname="" id="" package="marqeta" skipped="0"
-    tests="1" time="8.994" timestamp="">
+    tests="1" time="8.505" timestamp="">
   
-    <testcase name="Open Marqeta Home page" classname="marqeta.POM_testcase1" time="8.994" assertions="5">
+    <testcase name="Open Marqeta Home page" classname="marqeta.POM_testcase1" time="8.505" assertions="5">
 
     
 

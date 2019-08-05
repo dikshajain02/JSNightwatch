@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="marqeta.multuple_tests_hooks"
+    errors="0" failures="0" hostname="" id="" package="marqeta" skipped="0"
+    tests="1" time="6.258" timestamp="">
+  
+    <testcase name="Open Marqeta Home page" classname="marqeta.multuple_tests_hooks" time="6.258" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
